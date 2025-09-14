@@ -2,13 +2,9 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" name="Test">
-  
-  <parameter name="os" value="window"/>
-  <parameter name="browser" value="chrome"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.oranghehrm.BaseClass"/>
-      <class name="com.orangehrm.testcase.LoginPageTest"/>
+      <class name="com.mystore.testcase.TC_AccountCreationDetailsTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
-  

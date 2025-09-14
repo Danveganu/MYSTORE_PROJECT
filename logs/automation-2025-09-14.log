@@ -1,0 +1,292 @@
+2025-09-14 14:07:40,756(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000003 acquiring connection with route {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,786(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000003 acquiring endpoint (3 MINUTES)
+2025-09-14 14:07:40,787(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000003 endpoint lease request (3 MINUTES) [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,787(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000003 endpoint leased [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 1 of 5; total allocated: 2 of 25]
+2025-09-14 14:07:40,787(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000003 acquired ep-0000000003
+2025-09-14 14:07:40,788(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000003 acquired endpoint ep-0000000003
+2025-09-14 14:07:40,788(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000003 opening connection {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,789(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000003 connecting endpoint (null)
+2025-09-14 14:07:40,790(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000003 connecting endpoint to https://msedgedriver.azureedge.net:443 (30 SECONDS)
+2025-09-14 14:07:40,791(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - msedgedriver.azureedge.net resolving remote address
+2025-09-14 14:07:40,791(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-2 close connection IMMEDIATE
+2025-09-14 14:07:40,792(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000003 endpoint closed
+2025-09-14 14:07:40,792(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000003 discarding endpoint
+2025-09-14 14:07:40,792(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000003 releasing endpoint
+2025-09-14 14:07:40,793(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000003 connection is not kept alive)
+2025-09-14 14:07:40,793(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000003 connection released [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,793(HH:mm:ss.SSS) [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-09-14 14:07:40,794(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000004 preparing request execution
+2025-09-14 14:07:40,794(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000004 target auth state: UNCHALLENGED
+2025-09-14 14:07:40,795(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000004 proxy auth state: UNCHALLENGED
+2025-09-14 14:07:40,795(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000004 acquiring connection with route {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,795(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000004 acquiring endpoint (3 MINUTES)
+2025-09-14 14:07:40,796(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000004 endpoint lease request (3 MINUTES) [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,797(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000004 endpoint leased [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 1 of 5; total allocated: 2 of 25]
+2025-09-14 14:07:40,797(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000004 acquired ep-0000000004
+2025-09-14 14:07:40,798(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000004 acquired endpoint ep-0000000004
+2025-09-14 14:07:40,798(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000004 opening connection {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,799(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000004 connecting endpoint (null)
+2025-09-14 14:07:40,799(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000004 connecting endpoint to https://msedgedriver.azureedge.net:443 (30 SECONDS)
+2025-09-14 14:07:40,800(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - msedgedriver.azureedge.net resolving remote address
+2025-09-14 14:07:40,800(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-3 close connection IMMEDIATE
+2025-09-14 14:07:40,801(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000004 endpoint closed
+2025-09-14 14:07:40,801(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000004 discarding endpoint
+2025-09-14 14:07:40,810(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000004 releasing endpoint
+2025-09-14 14:07:40,814(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000004 connection is not kept alive)
+2025-09-14 14:07:40,815(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000004 connection released [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,816(HH:mm:ss.SSS) [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-09-14 14:07:40,818(HH:mm:ss.SSS) [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using URL built from repository pattern: https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver//edgedriver_win64.zip
+2025-09-14 14:07:40,821(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-09-14 14:07:40,832(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000005 preparing request execution
+2025-09-14 14:07:40,833(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000005 target auth state: UNCHALLENGED
+2025-09-14 14:07:40,833(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000005 proxy auth state: UNCHALLENGED
+2025-09-14 14:07:40,834(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000005 acquiring connection with route {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,835(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000005 acquiring endpoint (3 MINUTES)
+2025-09-14 14:07:40,836(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000005 endpoint lease request (3 MINUTES) [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,837(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000005 endpoint leased [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 1 of 5; total allocated: 2 of 25]
+2025-09-14 14:07:40,837(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000005 acquired ep-0000000005
+2025-09-14 14:07:40,838(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000005 acquired endpoint ep-0000000005
+2025-09-14 14:07:40,838(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000005 opening connection {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,838(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000005 connecting endpoint (null)
+2025-09-14 14:07:40,840(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000005 connecting endpoint to https://msedgedriver.azureedge.net:443 (30 SECONDS)
+2025-09-14 14:07:40,841(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - msedgedriver.azureedge.net resolving remote address
+2025-09-14 14:07:40,843(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-4 close connection IMMEDIATE
+2025-09-14 14:07:40,844(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000005 endpoint closed
+2025-09-14 14:07:40,845(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000005 discarding endpoint
+2025-09-14 14:07:40,848(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000005 releasing endpoint
+2025-09-14 14:07:40,850(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000005 connection is not kept alive)
+2025-09-14 14:07:40,851(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000005 connection released [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,858(HH:mm:ss.SSS) [main] WARN  io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2025-09-14 14:07:40,866(HH:mm:ss.SSS) [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - The driver version for EDGE is unknown ... trying with latest
+2025-09-14 14:07:40,869(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000006 preparing request execution
+2025-09-14 14:07:40,870(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000006 target auth state: UNCHALLENGED
+2025-09-14 14:07:40,871(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000006 proxy auth state: UNCHALLENGED
+2025-09-14 14:07:40,876(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000006 acquiring connection with route {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,876(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000006 acquiring endpoint (3 MINUTES)
+2025-09-14 14:07:40,876(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000006 endpoint lease request (3 MINUTES) [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,877(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000006 endpoint leased [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 1 of 5; total allocated: 2 of 25]
+2025-09-14 14:07:40,877(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000006 acquired ep-0000000006
+2025-09-14 14:07:40,877(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000006 acquired endpoint ep-0000000006
+2025-09-14 14:07:40,877(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000006 opening connection {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,878(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000006 connecting endpoint (null)
+2025-09-14 14:07:40,878(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000006 connecting endpoint to https://msedgedriver.azureedge.net:443 (30 SECONDS)
+2025-09-14 14:07:40,878(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - msedgedriver.azureedge.net resolving remote address
+2025-09-14 14:07:40,879(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-5 close connection IMMEDIATE
+2025-09-14 14:07:40,879(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000006 endpoint closed
+2025-09-14 14:07:40,879(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000006 discarding endpoint
+2025-09-14 14:07:40,879(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000006 releasing endpoint
+2025-09-14 14:07:40,879(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000006 connection is not kept alive)
+2025-09-14 14:07:40,879(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000006 connection released [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,879(HH:mm:ss.SSS) [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-09-14 14:07:40,879(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000007 preparing request execution
+2025-09-14 14:07:40,881(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000007 target auth state: UNCHALLENGED
+2025-09-14 14:07:40,881(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000007 proxy auth state: UNCHALLENGED
+2025-09-14 14:07:40,881(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000007 acquiring connection with route {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,881(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000007 acquiring endpoint (3 MINUTES)
+2025-09-14 14:07:40,882(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000007 endpoint lease request (3 MINUTES) [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,882(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000007 endpoint leased [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 1 of 5; total allocated: 2 of 25]
+2025-09-14 14:07:40,882(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000007 acquired ep-0000000007
+2025-09-14 14:07:40,882(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000007 acquired endpoint ep-0000000007
+2025-09-14 14:07:40,882(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000007 opening connection {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,883(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000007 connecting endpoint (null)
+2025-09-14 14:07:40,883(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000007 connecting endpoint to https://msedgedriver.azureedge.net:443 (30 SECONDS)
+2025-09-14 14:07:40,884(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - msedgedriver.azureedge.net resolving remote address
+2025-09-14 14:07:40,884(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-6 close connection IMMEDIATE
+2025-09-14 14:07:40,884(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000007 endpoint closed
+2025-09-14 14:07:40,884(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000007 discarding endpoint
+2025-09-14 14:07:40,884(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000007 releasing endpoint
+2025-09-14 14:07:40,884(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000007 connection is not kept alive)
+2025-09-14 14:07:40,884(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000007 connection released [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,884(HH:mm:ss.SSS) [main] WARN  io.github.bonigarcia.wdm.versions.VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-09-14 14:07:40,886(HH:mm:ss.SSS) [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using URL built from repository pattern: https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver//edgedriver_win64.zip
+2025-09-14 14:07:40,889(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-09-14 14:07:40,897(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000008 preparing request execution
+2025-09-14 14:07:40,899(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000008 target auth state: UNCHALLENGED
+2025-09-14 14:07:40,899(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000008 proxy auth state: UNCHALLENGED
+2025-09-14 14:07:40,900(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000008 acquiring connection with route {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,900(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000008 acquiring endpoint (3 MINUTES)
+2025-09-14 14:07:40,901(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000008 endpoint lease request (3 MINUTES) [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,902(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000008 endpoint leased [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 1 of 5; total allocated: 2 of 25]
+2025-09-14 14:07:40,906(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000008 acquired ep-0000000008
+2025-09-14 14:07:40,908(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000008 acquired endpoint ep-0000000008
+2025-09-14 14:07:40,908(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000008 opening connection {s}->[https://msedgedriver.azureedge.net:443]
+2025-09-14 14:07:40,908(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000008 connecting endpoint (null)
+2025-09-14 14:07:40,909(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000008 connecting endpoint to https://msedgedriver.azureedge.net:443 (30 SECONDS)
+2025-09-14 14:07:40,909(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - msedgedriver.azureedge.net resolving remote address
+2025-09-14 14:07:40,909(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-7 close connection IMMEDIATE
+2025-09-14 14:07:40,909(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000008 endpoint closed
+2025-09-14 14:07:40,910(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000008 discarding endpoint
+2025-09-14 14:07:40,911(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000008 releasing endpoint
+2025-09-14 14:07:40,912(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000008 connection is not kept alive)
+2025-09-14 14:07:40,912(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000008 connection released [route: {s}->[https://msedgedriver.azureedge.net:443]][total available: 1; route allocated: 0 of 5; total allocated: 1 of 25]
+2025-09-14 14:07:40,913(HH:mm:ss.SSS) [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriversFromXml(EdgeDriverManager.java:308) ~[webdrivermanager-6.1.0.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:138) ~[webdrivermanager-6.1.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1464) ~[webdrivermanager-6.1.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1294) ~[webdrivermanager-6.1.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1200) ~[webdrivermanager-6.1.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1459) ~[webdrivermanager-6.1.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1437) ~[webdrivermanager-6.1.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1206) ~[webdrivermanager-6.1.0.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:429) ~[webdrivermanager-6.1.0.jar:?]
+	at com.mystore.Utility.BaseClass.setup(BaseClass.java:44) ~[classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:952) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1663) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1528) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:61) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:169) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:490) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:150) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:113) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:183) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.4.3.jar:5.4.3]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.4.3.jar:5.4.3]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:151) ~[webdrivermanager-6.1.0.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriversFromXml(EdgeDriverManager.java:267) ~[webdrivermanager-6.1.0.jar:?]
+	... 33 more
+2025-09-14 14:09:08,910(HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\MyStore1\testng.xml"
+2025-09-14 14:09:09,539(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\MyStore1\testng.xml
+
+2025-09-14 14:09:09,890(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-09-14 14:09:09,962(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-09-14 14:09:10,921(HH:mm:ss.SSS) [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 6.1.0
+2025-09-14 14:09:11,511(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 preparing request execution
+2025-09-14 14:09:11,535(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000001 target auth state: UNCHALLENGED
+2025-09-14 14:09:11,539(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000001 proxy auth state: UNCHALLENGED
+2025-09-14 14:09:11,539(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000001 acquiring connection with route {s}->[https://raw.githubusercontent.com:443]
+2025-09-14 14:09:11,539(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 acquiring endpoint (3 MINUTES)
+2025-09-14 14:09:11,542(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->[https://raw.githubusercontent.com:443]][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+2025-09-14 14:09:11,550(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 endpoint leased [route: {s}->[https://raw.githubusercontent.com:443]][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2025-09-14 14:09:11,573(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 acquired ep-0000000001
+2025-09-14 14:09:11,573(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 acquired endpoint ep-0000000001
+2025-09-14 14:09:11,574(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000001 opening connection {s}->[https://raw.githubusercontent.com:443]
+2025-09-14 14:09:11,575(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 connecting endpoint (null)
+2025-09-14 14:09:11,580(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+2025-09-14 14:09:11,584(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolving remote address
+2025-09-14 14:09:11,585(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.111.133, raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.109.133, raw.githubusercontent.com/185.199.110.133, raw.githubusercontent.com/2606:50c0:8000:0:0:0:0:154, raw.githubusercontent.com/2606:50c0:8001:0:0:0:0:154, raw.githubusercontent.com/2606:50c0:8002:0:0:0:0:154, raw.githubusercontent.com/2606:50c0:8003:0:0:0:0:154]
+2025-09-14 14:09:11,586(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - https://raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.111.133:443 (30 SECONDS)
+2025-09-14 14:09:11,840(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - http-outgoing-0 https://raw.githubusercontent.com:443 connected /192.168.1.9:54285->raw.githubusercontent.com/185.199.111.133:443
+2025-09-14 14:09:11,841(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-0 set socket timeout to 3 MINUTES
+2025-09-14 14:09:11,842(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - http-outgoing-0 https://raw.githubusercontent.com:443 upgrading to TLS
+2025-09-14 14:09:12,003(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.ssl.AbstractClientTlsStrategy - Enabled protocols: [TLSv1.3, TLSv1.2]
+2025-09-14 14:09:12,007(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.ssl.AbstractClientTlsStrategy - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2025-09-14 14:09:12,010(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.ssl.AbstractClientTlsStrategy - Starting handshake (null)
+2025-09-14 14:09:12,467(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.ssl.AbstractClientTlsStrategy - Secure session established
+2025-09-14 14:09:12,474(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.ssl.AbstractClientTlsStrategy -  negotiated protocol: TLSv1.3
+2025-09-14 14:09:12,477(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.ssl.AbstractClientTlsStrategy -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+2025-09-14 14:09:12,484(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.ssl.AbstractClientTlsStrategy -  peer principal: CN=*.github.io
+2025-09-14 14:09:12,485(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.ssl.AbstractClientTlsStrategy -  peer alternative names: [*.github.io, *.github.com, *.githubusercontent.com, github.com, github.io, githubusercontent.com, www.github.com]
+2025-09-14 14:09:12,486(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.ssl.AbstractClientTlsStrategy -  issuer principal: CN=Sectigo RSA Domain Validation Secure Server CA, O=Sectigo Limited, L=Salford, ST=Greater Manchester, C=GB
+2025-09-14 14:09:12,489(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - http-outgoing-0 https://raw.githubusercontent.com:443 upgraded to TLS
+2025-09-14 14:09:12,490(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connected http-outgoing-0
+2025-09-14 14:09:12,491(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 endpoint connected
+2025-09-14 14:09:12,493(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties
+2025-09-14 14:09:12,494(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000001 Cookie spec selected: strict
+2025-09-14 14:09:12,516(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 start execution ex-0000000001
+2025-09-14 14:09:12,521(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+2025-09-14 14:09:12,526(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2025-09-14 14:09:12,527(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+2025-09-14 14:09:12,528(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+2025-09-14 14:09:12,534(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> cache-control: max-age=0
+2025-09-14 14:09:12,535(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> connection: keep-alive
+2025-09-14 14:09:12,535(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Host: raw.githubusercontent.com
+2025-09-14 14:09:12,536(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1[\r][\n]"
+2025-09-14 14:09:12,536(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+2025-09-14 14:09:12,536(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+2025-09-14 14:09:12,537(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+2025-09-14 14:09:12,538(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+2025-09-14 14:09:12,538(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+2025-09-14 14:09:12,539(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "[\r][\n]"
+2025-09-14 14:09:12,675(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2025-09-14 14:09:12,676(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2025-09-14 14:09:12,676(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Length: 946[\r][\n]"
+2025-09-14 14:09:12,677(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+2025-09-14 14:09:12,677(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+2025-09-14 14:09:12,677(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+2025-09-14 14:09:12,678(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "ETag: W/"dc0c32cea2dfa86f6cf10513cf8a64e1e8817484a415b658b4eecd962d4deaee"[\r][\n]"
+2025-09-14 14:09:12,678(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+2025-09-14 14:09:12,679(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2025-09-14 14:09:12,679(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+2025-09-14 14:09:12,680(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2025-09-14 14:09:12,681(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-GitHub-Request-Id: D604:2264A:40FA87:A2B4BC:68BF456D[\r][\n]"
+2025-09-14 14:09:12,683(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2025-09-14 14:09:12,684(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2025-09-14 14:09:12,684(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Date: Sun, 14 Sep 2025 08:39:13 GMT[\r][\n]"
+2025-09-14 14:09:12,685(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+2025-09-14 14:09:12,686(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Served-By: cache-ccu830022-CCU[\r][\n]"
+2025-09-14 14:09:12,686(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+2025-09-14 14:09:12,687(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Cache-Hits: 29827[\r][\n]"
+2025-09-14 14:09:12,687(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Timer: S1757839153.496722,VS0,VE0[\r][\n]"
+2025-09-14 14:09:12,687(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Vary: Authorization,Accept-Encoding[\r][\n]"
+2025-09-14 14:09:12,688(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2025-09-14 14:09:12,688(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+2025-09-14 14:09:12,689(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Fastly-Request-ID: 7d3b00278211d72843d88c125ee8bc218a100f72[\r][\n]"
+2025-09-14 14:09:12,689(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Expires: Sun, 14 Sep 2025 08:44:13 GMT[\r][\n]"
+2025-09-14 14:09:12,690(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Source-Age: 258[\r][\n]"
+2025-09-14 14:09:12,690(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[\r][\n]"
+2025-09-14 14:09:12,705(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << HTTP/1.1 200 OK
+2025-09-14 14:09:12,706(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Connection: keep-alive
+2025-09-14 14:09:12,706(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Length: 946
+2025-09-14 14:09:12,707(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cache-Control: max-age=300
+2025-09-14 14:09:12,707(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+2025-09-14 14:09:12,708(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+2025-09-14 14:09:12,708(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << ETag: W/"dc0c32cea2dfa86f6cf10513cf8a64e1e8817484a415b658b4eecd962d4deaee"
+2025-09-14 14:09:12,709(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+2025-09-14 14:09:12,709(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Content-Type-Options: nosniff
+2025-09-14 14:09:12,709(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Frame-Options: deny
+2025-09-14 14:09:12,710(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2025-09-14 14:09:12,710(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-GitHub-Request-Id: D604:2264A:40FA87:A2B4BC:68BF456D
+2025-09-14 14:09:12,710(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Encoding: gzip
+2025-09-14 14:09:12,711(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Accept-Ranges: bytes
+2025-09-14 14:09:12,711(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Date: Sun, 14 Sep 2025 08:39:13 GMT
+2025-09-14 14:09:12,714(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Via: 1.1 varnish
+2025-09-14 14:09:12,715(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Served-By: cache-ccu830022-CCU
+2025-09-14 14:09:12,716(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Cache: HIT
+2025-09-14 14:09:12,717(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Cache-Hits: 29827
+2025-09-14 14:09:12,718(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Timer: S1757839153.496722,VS0,VE0
+2025-09-14 14:09:12,718(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Vary: Authorization,Accept-Encoding
+2025-09-14 14:09:12,719(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Access-Control-Allow-Origin: *
+2025-09-14 14:09:12,720(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+2025-09-14 14:09:12,720(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Fastly-Request-ID: 7d3b00278211d72843d88c125ee8bc218a100f72
+2025-09-14 14:09:12,721(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Expires: Sun, 14 Sep 2025 08:44:13 GMT
+2025-09-14 14:09:12,721(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Source-Age: 258
+2025-09-14 14:09:12,732(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 connection can be kept alive for 3 MINUTES
+2025-09-14 14:09:12,748(HH:mm:ss.SSS) [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]X[0xffffffd1]n[0xffffffda]0[0x14]}[0xffffffe7]+,[0xffffffba]J [0x11][0xffffffb2][0x1][0xffffffeb][0xffffffaa]Jy[0xffffffa0][0x19]e[0xffffffd5][0xffffffa8]`[0xffffffd0]v[0xffffff9b][0xffffffe4][0x17][0xffffff93]8`)[0xffffff89]Q[0xffffff9c]@[0xffffffb7][0xffffffa9][0xfffffffb][0xfffffff6]9NB[0xffffffe3]$[0xc]H[0xffffffe0][0xffffffad][0xffffff8e][0xffffff8f][0xffffffef]97[0xffffffdc]s}[0xffffffd3][0xb][0xffffffa0]S[0xffffffc7]A[0xffffffae][0xffffffc9][0xffffff80][0xffffff89]|4G[0xc][0xffffffd7].[0xffffffc0][0xffffffe3][0xffffff92]0`[0x11][0x1b][0x3][0xffffff83][0xffffffba]>".[0x3][0xfffffffe]2\[0xffffffc4]P[0xffffff9f][0xffffff82]9[0x6][0xfffffff8][0x5][0x1b][0xffffff81][0xffffff8f]M@\[0xffffffb1][0xffffffcd][0xffffff96][0xffffffd8][0xffffffb6][0xffffffc3][0x5][0xfffffff5]L[0xffffffec][0xffffff85] [0x13][0xfffffffb][0xffffffd8][0xfffffff0][0xffffffc5][0xffffffe6][0x1a]{[0xffffff8c]P[0xffffffbe]g[0x1][0xffffffcc][0xffffffff]^x[0x18][0xffffffbb]`[0xffffffee][0xffffffd1][\r][0xffffffe3][0x1b][0xffffff9c][0xffffffb2][0xffffffa1]/=[0xffffffea][0xffffffe0][0x16][0xffffffb8]#[0x1e][0xffffffb6][0xffffffe8]K[0xb][0xffffff8c]W[0xffffffd8]C-00[0x17][0xfffffffc][0xffffffa9][0xffffffd8]%[0xffffff81][0xffffffd3][0xc][0xffffffe3][0xffffff9b][0xffffffc4][0xffffffb2][0xffffffb0][0xffffff87]][0x1f][0xffffffd0][0x10][0xffffffe3][0x13]w[0x1][0xffffffd8]/[0xffffffe6]c[0xffffff87][0xffffff81][0xffffffc6]w[0xffffffe2][0xffffff9a]<j[0xb][0xffffff8c][0xffffff88][0x1b][0xfffffff0]0[0xf][0xffffffc8][0x0][0xffffffe3]Y[0xffffffb3][0xffffffc6]9"[0xffffff8a]Z[0xffffff9c]F[0xffffffdb][0x10][0xffffffcb][0xfffffff6]&:[0xffffffd0]~[0xffffffff]A3[0x1c][0xffffffb3][0xffffffcd][0xffffffb3][0x2][0xffffffaa][0xe]6[0xe]1[0xffffffc4]+[0x11][0xffffffaf]a[0xffffffb3][0xffffffe4]|[0xffffffc0]E[0xe][0xffffffd6][0xffffffea][0xffffff97][0xffffff93][0xffffffe9]x8[0xffffffed]?[0xffffffdc][0xffffffdd][0xffffff8f][0x6][0xffffffb3][0x1b][0xffffffa8]Ax[0x9][0xffffffe1][0xffffff90][0xffffffd2][0xffffff85][0xffffff8d]![0xffffff8c]( [0xffffffec][0xffffffaf]V61[0xffffffb8]4[0xffffffea]B[0x18][0x13][0xfffffff1][0xffffffc8]u[0xffffffb0][0xffffffc0]>x[0xffffff8e][0xffffffdf][0xffffff85][0xffffffba]Fv[0xffffffb0][O[0xffffffa7][0xffffff84][0xffffff9e][0xffffffc6][0xffffff8f][0xffffffeb][0xffffffab][0xffffffe6]9Eu[0xf][0x14]5[0x1a][0xffffffeb][0xfffffffd]Q[0x7f]2[0xfffffff9][0xffffffdc][0x7f][0xffffffec][0xffffff9f]SOO[0xffffff9b][0xe][0xffffff86][0xffffffe0][0xffffffdb][0xffffffd3]`[0xfffffffa][0x13]|[0xfffffff9][0xffffffaa]?[0xffffffc1][0x19][0xffffffb5][0xfffffffc][\r][0xfffffff2]p[0xffffffc2][0x16][0xffffff93][0xffffffdd][0xffffff8e]n12D[0xffffffbc][0xffffffa4][0x16]w[0xffffffc6][0xfffffffc][0xffffffa8][0xffffffad][0xffffffe8][0xffffff86]c[0xffffffc2]z[0x16][0xffffffa9]*[0xffffffb1]I@c[0xffffff88]}[0xffffffe5][0xffffff9e][0x17][0x1a][0xffffffa8][0xffffffbf][0xfffffffb][0xffffff83][0xffffffdd][0xfffffff5]M:[0xffffffcd][0xffffffd7][0xc]e:[0xffffffbd]Tv[0xffffffcd]v[0xffffff9c][0xffffffda][0xffffffbd]k[0xffffffd1][0xfffffff6][0xffffffc4][0xffffffa3]f`[0xfffffff8][0xffffffcf]{$][0x1d].)W[0xe][0xffffffe7][0xffffffd4][0xfffffff5][0xffffffa9][0xffffff9c][0xffffffae]SH[0xffffffca]j[0xffffffb2]C[0xffffffbf][0xffffff87].V[0x3][0xffffffe6][0xffffffa9]s[0xffffffe2][0xffffffaa][0xb][0xffffffc1][0xffffffa1]D[0xfffffffb]@Qv[0xfffffffc][0xffffffee][0xfffffff1][0xffffffc1][0xffffff8e][0xffffffb6][0xb][0xffffff9f]=[0xffffffe0] C[0xfffffff0][0xffffffa4]T35J([0xffffffee]1m[0xffffffb4]Z[0xffffffa9]:[0xffffffef][0xffffff9d][0xffffffbc]I1[0xffffff95][0xffffffb7][0xffffffa0][0xfffffff1]L[0x6][0xffffffa4][0xffffffa3][0xfffffff3][0xffffffce][0x14]7[0xffffffbd]-[0xffffff91][0x15][0xffffffad]O[0xffffffd3][0xffffff9b][0x1e][0xffffffe8]ob[0xffffffdb](![0xffffff81]0[0xffffff89][0xffffffbe][0xffffffcf]k9[0x15][0xffffff95];[0xffffffd2][0xffffffe9][0xffffffa4]tS[0xffffffbe][0xffffffaf][0xffffffcb][0xffffffc6][0xffffff8f]I[0xffffffb2]d[0xfffffff5][0xffffffd0][0xfffffffa]z[0xffffffe0][0xffffff85][0x17]G[0xffffffb6][0xffffffac]s[0xffffffe1]{[0xffffff95][0xfffffffc][0x16]1[0xffffffff][0xfffffffd] [0xffffffa5]w[0xffffff90][0xffffffbf]rB[0xffffff8e][0xffffffe8]E[0xffffffb2][0xffffffc1][0xffffff8e][0xffffffd7][0xffffff90][0x13][0xffffff91]wT[0xffffffbc][0x3][0xffffff94][0xfffffff5].pGKar[0xffffffa0]B[0xffffffe7][0xffffffc4][0xffffffbf]O[0xffffff91]g[0xffffffd2][0xffffffb1][0xffffffb8]M[0xffffffc2]Y`[0x1b][0x13][0xfffffff3]E5[0xffffff83][0xffffffc8][0xffffffa5]I[0xc][0xffffff8f]2^C[0x10][0xffffff86]4[0xffffff99][0xffffffdb][0xffffffc9]a[0xffffff82]n_[0xffffff99][0xffffffca][0xffffff9a][0xffffffca][0xffffffd8][0xffffffe5][0xffffff8c]r[0xffffffba];[0xffffffaf][0xffffffca]72[0xffffffc1][0xfffffff5][0xffffffbf][0xffffffbb]R[0xe]Y[0xffffffd2]&[0xffffffaf]Y[0xffffffc6]tr[0xffffffa9][0xffffffdc][0xe][0xffffffb2][0xffffff8c][0xffffffac][0xffffffa8][0xffffffa4]_[0x12][0xffffffe3]V[0xffffff97]U[0xffffff93][0xffffff85][0xffffffe5]=[0xffffffe4]$[0x1c]J[0x8]([0xffffffb8][0xffffff96][0xffffffd2][0xffffffe7]:[0xffffffda]N[0xffffffb8][0xffffff8c]/t[0xffffffd6]6[0x1d][0xffffffe1][0xffffff9c]"[0xffffff83][0xffffffc9][0x8] ]Jb[0x0][0xffffffdf][0xffffffb2][0xffffff88]Q[0xfffffffb]x[0xffffffbf][0x15][0xffffffcd][0xffffff81][0xfffffffc][0xffffff8d]-<[0xffffffe4]0[0x8][0x5][0x5][0xffffff84]Q[0xffffffec]}[0xffffffd5][0xffffff9c]QP[0xffffffc5]][0xffffffa7]QPe[0x16][0xffffff8e]ym[0x14][0xffffffb8][0x6][0xffffffc7][0x1e]K[0xffffffdd][0xffffffab][0xffffff90]|E[0xffffffea][0xffffffd2]7R[0xffffffc4]+[0xffffffd1][0x1e]d[0xfffffff0][0xc][0xffffffff][0x11][0xffffffa3][0xffffffb0]<[0xffffff9d][0xffffff9f][0xffffff88][0xffffffbf][0xfffffff4][0xffffffc8][0xffffffbb]-[0xffffffba]H[0xffffffc8][[0xffffffc9][0xffffff95]Qq][0xfffffff6]-[0xffffff94]S[0xffffff91][0xffffff91][0xffffff91][0xffffffef]j[0xffffffe2]yA3[0xffffff93][0xfffffff0][0x1d]-[0xb][0xffffffcb][0xffffffe0][\n]"
