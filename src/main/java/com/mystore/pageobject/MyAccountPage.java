@@ -5,10 +5,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class MyAccountPage {
+import com.mystore.Utility.BaseClass;
+
+public class MyAccountPage extends BaseClass {
 
 	WebDriver ldriver;
-
 	public MyAccountPage(WebDriver rdriver) {
 		this.ldriver=rdriver;
 		PageFactory.initElements(rdriver, this);
@@ -25,8 +26,11 @@ public class MyAccountPage {
 
 
 		//action on webelement
-		public void enterEmailAdress(String email) {
+		public String enterEmailAdress(String email) {
+			
 			createEmailId.sendKeys(email);
+			return email;
+			
 		}
 
 

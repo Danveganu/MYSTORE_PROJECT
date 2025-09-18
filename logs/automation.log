@@ -14,3 +14,244 @@
 2025-09-18 15:41:52,833(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
 2025-09-18 15:41:53,096(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
 2025-09-18 15:41:54,504(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 20:56:41,423(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 20:56:45,879(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 20:56:45,894(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 20:56:57,047(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 20:56:58,855(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 20:56:58,871(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 20:57:00,567(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 20:57:07,534(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 20:57:08,685(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 20:57:08,901(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 20:57:09,018(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 20:57:09,163(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 20:57:09,302(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 20:57:11,058(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 21:12:06,425(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 21:12:08,406(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 21:12:08,440(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 21:12:16,410(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 21:12:18,191(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 21:12:18,210(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 21:12:20,218(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 21:12:26,822(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 21:12:27,816(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 21:12:28,122(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 21:12:28,403(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 21:12:28,644(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 21:12:28,873(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 21:12:31,502(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 21:38:35,431(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 21:38:37,308(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 21:38:37,332(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 21:38:45,655(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 21:38:49,877(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 21:38:49,889(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 21:38:57,997(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 21:38:58,086(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 21:38:59,080(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 21:38:59,439(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 21:38:59,562(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 21:38:59,685(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 21:38:59,836(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 21:39:01,362(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 22:06:44,675(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 22:06:48,317(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 22:06:48,333(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 22:06:56,040(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 22:06:58,699(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 22:06:58,716(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 22:07:06,682(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 22:07:06,740(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 22:07:07,689(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 22:07:07,894(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 22:07:08,029(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 22:07:08,244(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 22:07:08,577(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 22:07:10,236(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 22:44:05,690(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 22:44:07,682(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 22:44:07,708(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 22:44:15,165(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 22:44:17,857(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 22:44:17,870(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 22:44:26,336(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 22:44:26,389(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 22:44:27,626(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 22:44:28,095(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 22:44:28,291(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 22:44:28,577(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 22:44:28,791(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 22:44:30,388(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 23:40:34,325(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 23:40:38,921(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 23:40:38,943(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 23:40:46,882(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 23:40:49,624(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 23:40:49,640(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 23:40:57,739(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 23:40:57,807(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 23:40:58,887(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 23:40:59,153(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 23:40:59,369(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 23:40:59,627(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 23:40:59,862(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 23:41:01,303(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 23:45:52,694(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 23:45:54,493(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 23:45:54,522(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 23:46:01,323(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 23:46:04,866(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 23:46:04,879(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 23:46:13,242(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 23:46:13,303(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 23:46:14,640(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 23:46:15,012(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 23:46:15,379(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 23:46:15,559(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 23:46:15,732(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 23:46:17,067(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 23:50:51,204(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 23:50:52,956(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 23:50:52,987(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 23:50:59,949(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 23:51:03,482(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 23:51:03,494(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 23:51:11,394(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 23:51:11,441(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 23:51:12,365(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 23:51:12,573(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 23:51:12,682(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 23:51:12,926(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 23:51:13,242(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 23:51:14,791(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 23:54:07,901(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 23:54:09,686(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 23:54:09,716(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 23:54:16,897(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 23:54:20,197(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 23:54:20,210(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 23:54:28,359(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 23:54:28,422(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 23:54:29,843(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 23:54:30,283(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 23:54:30,548(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 23:54:30,735(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 23:54:30,922(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 23:54:32,377(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 23:56:53,994(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 23:56:55,777(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 23:56:55,807(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 23:57:02,321(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 23:57:05,515(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 23:57:05,539(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 23:57:13,353(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 23:57:13,404(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 23:57:14,327(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 23:57:14,527(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 23:57:14,640(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 23:57:14,806(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 23:57:14,972(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 23:57:16,432(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-18 23:59:02,602(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-18 23:59:04,486(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-18 23:59:04,517(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-18 23:59:11,100(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-18 23:59:19,679(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-18 23:59:19,694(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-18 23:59:28,470(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-18 23:59:28,521(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-18 23:59:29,473(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-18 23:59:29,684(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-18 23:59:29,802(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-18 23:59:29,923(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-18 23:59:30,042(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-18 23:59:31,406(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-19 00:00:53,983(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-19 00:00:55,736(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-19 00:00:55,760(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-19 00:01:03,086(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-19 00:01:04,696(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-19 00:01:04,705(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-19 00:01:12,652(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-19 00:01:12,743(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-19 00:01:13,656(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-19 00:01:13,884(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-19 00:01:14,122(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-19 00:01:14,456(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-19 00:01:14,629(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-19 00:01:16,147(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-19 00:02:37,580(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-19 00:02:39,336(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-19 00:02:39,366(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-19 00:02:45,735(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-19 00:02:54,830(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-19 00:02:54,848(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-19 00:03:03,316(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-19 00:03:03,355(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-19 00:03:04,370(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-19 00:03:04,587(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-19 00:03:04,693(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-19 00:03:04,814(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-19 00:03:04,937(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-19 00:03:06,241(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-19 00:05:37,826(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-19 00:05:39,630(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-19 00:05:39,666(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-19 00:05:46,221(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-19 00:05:47,857(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-19 00:05:47,869(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-19 00:05:55,710(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-19 00:05:55,769(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-19 00:05:56,755(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-19 00:05:56,967(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-19 00:05:57,086(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-19 00:05:57,279(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-19 00:05:57,489(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-19 00:05:58,916(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.
+2025-09-19 00:08:39,615(HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\eclipse-workspace\MYSTORE_PROJECT\testng.xml
+
+2025-09-19 00:08:41,411(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+2025-09-19 00:08:41,441(HH:mm:ss.SSS) [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\admin\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+2025-09-19 00:08:48,753(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-19 00:08:56,689(HH:mm:ss.SSS) [main] INFO  MyStore - url opened
+2025-09-19 00:08:58,175(HH:mm:ss.SSS) [main] INFO  MyStore - Click On Account Create Button
+2025-09-19 00:08:58,179(HH:mm:ss.SSS) [main] INFO  MyStore - we are on correct url now
+2025-09-19 00:09:06,499(HH:mm:ss.SSS) [main] INFO  MyStore - click on registr button
+2025-09-19 00:09:06,546(HH:mm:ss.SSS) [main] INFO  MyStore - Account Created Sucessfully
+2025-09-19 00:09:07,532(HH:mm:ss.SSS) [main] INFO  MyStore - enter city
+2025-09-19 00:09:07,726(HH:mm:ss.SSS) [main] INFO  MyStore - select state
+2025-09-19 00:09:07,830(HH:mm:ss.SSS) [main] INFO  MyStore - zipcode enter
+2025-09-19 00:09:07,958(HH:mm:ss.SSS) [main] INFO  MyStore - contry enter as UNITED STATE
+2025-09-19 00:09:08,091(HH:mm:ss.SSS) [main] INFO  MyStore - mobile number added sucessfully
+2025-09-19 00:09:09,295(HH:mm:ss.SSS) [main] INFO  MyStore - Your addresses are listed below.

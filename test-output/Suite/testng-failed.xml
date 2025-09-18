@@ -6,9 +6,9 @@
     <classes>
       <class name="com.mystore.testcase.TC_AccountCreationDetailsTest">
         <methods>
+          <include name="verifyLogintest"/>
           <include name="BS"/>
           <include name="setup"/>
-          <include name="accountDetails"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.mystore.testcase.TC_AccountCreationDetailsTest -->

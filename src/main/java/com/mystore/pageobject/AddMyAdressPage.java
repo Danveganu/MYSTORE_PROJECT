@@ -35,7 +35,7 @@ public class AddMyAdressPage {
 	WebElement savebtn;
 	@FindBy(xpath="//strong[text()='Your addresses are listed below.']")
 	WebElement Adreemessage;
-	//strong[text()='Your addresses are listed below.']
+	
 	
 	
 	public void ClickAddMyAdressLink() {

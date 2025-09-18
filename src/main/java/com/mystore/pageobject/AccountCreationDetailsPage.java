@@ -27,6 +27,12 @@ public class AccountCreationDetailsPage {
 	WebElement registerbtn;
 	@FindBy(xpath="//p[@class='alert alert-success']")
 	WebElement sucessmsg;
+	@FindBy(xpath="//input[@id='passwd']")
+	WebElement ResisteredEmailAdress;
+	@FindBy(xpath="//input[@id='passwd']")
+	WebElement password;
+	@FindBy(xpath="//span[normalize-space()='Sign in']")
+	WebElement loginbtn;
 
 	public void selectGenderTitle() {
 		titlemr.click();
@@ -48,5 +54,15 @@ public class AccountCreationDetailsPage {
 		String confimatonmsg=sucessmsg.getText();
 		return confimatonmsg;
         }
+	public String ResisteredEmailAdress(String Registeremail) {
+		ResisteredEmailAdress.sendKeys(Registeremail);
+		return Registeremail;
+		}
+	public void registedpassword (String passwrd) {
+		password.sendKeys(passwrd);
+		}
+	public void loginbtn() {
+		loginbtn.click();
+		}
 	
 }
