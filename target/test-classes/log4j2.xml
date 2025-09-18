@@ -20,8 +20,8 @@
     </Appenders>
 
     <Loggers>
-        <Root level="Debug"><!-- Here you can use multiple log levels All < Trace < Debug < Info < Warn < Error < Fatal -->
-            <AppenderRef ref="Console"/> 
+        <Root level="info"><!-- Here you can use multiple log levels All < Trace < Debug < Info < Warn < Error < Fatal -->
+            <!--AppenderRef ref="Console"/--> 
             <AppenderRef ref="File"/>
         </Root>
     </Loggers>
